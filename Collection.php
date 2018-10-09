@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace Pyz\Shared\Collection;
+namespace damijanc\Collection;
 
 use ArrayAccess;
 use ArrayIterator;
