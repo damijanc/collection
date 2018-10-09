@@ -34,6 +34,9 @@ class MyCoolCollection extends Collection
         return parent::offsetGet($offset);
     }
 }
+```
+Installation:
 
 ```
-
+composer require damijanc/collection
+```

@@ -1,0 +1,18 @@
+{
+    "name": "damijanc/collection",
+    "description": "A simple PHP collection class to be used instead of ArrayObject",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "damijanc",
+            "email": "damijan@cavar.si"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "damijanc\\": "src"
+        }
+    }
+}
